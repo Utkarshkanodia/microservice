@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+app:
+  limit:
+    minimum: 5
+    maximum: 5000
